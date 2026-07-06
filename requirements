@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+plotly
+pyside6
+requests
+websocket-client
+sqlalchemy
+python-dotenv
+ta
